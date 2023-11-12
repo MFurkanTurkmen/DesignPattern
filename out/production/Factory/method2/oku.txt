@@ -1,0 +1,1 @@
+1. methoddan farklı olarak her bir düşman için ayrı bir factory bulunmaktadır.
