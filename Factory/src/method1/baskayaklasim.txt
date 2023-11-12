@@ -1,0 +1,2 @@
+enemy typlerını String yerine enum tanımlarız.
+böylece fabrikanın neyi üretecegini enum vererek söyleriz.
